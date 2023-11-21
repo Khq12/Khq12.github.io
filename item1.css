@@ -33,7 +33,7 @@ h1 {
     font-size:25px;
 }
 .main{
-    display: inline-block;
+    display: inline;
 }
 .movies {
     border-radius: 23px;
